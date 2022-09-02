@@ -1,0 +1,1 @@
+web: gunicorn PROYEK1_MEI.wsgi --log-file -
